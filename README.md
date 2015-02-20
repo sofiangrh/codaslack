@@ -1,2 +1,2 @@
-# codaslack
+# About
 My template blogger
